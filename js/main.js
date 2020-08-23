@@ -1,5 +1,8 @@
 'use strict';
 
+console.log('%1', 'color:#FFFFFF', 'background-color:red');
+
+
 const $btn = document.getElementById('btn-kick');
 
 const character = {
